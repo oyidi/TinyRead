@@ -7,7 +7,8 @@ android {
 
     defaultConfig {
         applicationId "com.windworkshop.tinyread"
-        minSdkVersion 23
+        minSdkVersion 25
+        //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
